@@ -1,0 +1,4 @@
+Teachers Records
+ID 	 Name 	 Class 	 Section
+10	Mallika	4	A
+11	Mahima	5	B
